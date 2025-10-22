@@ -31,7 +31,7 @@ after this i add wheels and mount for nema motors ![Screenshot (219).png](https:
 
   
 
-## 10/22/2025 - 20-Oct (Idea And Design Continue)   
+## 10/22/2025 6:08 PM - 20-Oct (Idea And Design Continue)   
 
 uhh i hate typing in my small laptop so i just keep on the journal with writting it physically on my fav notebook this process is same as i did for highway and clutter so yeah please forgive me for late journaling ,
 
@@ -49,4 +49,11 @@ after that i started making toolhead holder for the printer it would look good a
 hmm after a 10 min break i decided to add belts to it the uhh it really took me half and hour to set it up along the line because my lap was not able the handle the load i used patteren along path to make the bellt it took 30 min to render a belt for one side and after 2 hour i was able to complete the belt and yeah fter 3o min i fully setuped the gantry here it looks
 ![Screenshot (224).png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDM2NiwicHVyIjoiYmxvYl9pZCJ9fQ==--c3858ad4901b3b775cb0031a6c8e7e2e3dc69c38/Screenshot%20(224).png)
    
+
+## 10/22/2025 6:14 PM - 21 Oct Electronics Part   
+
+Electronics was a work of 30 min for me as i knew how would i connect wires bcz after a exp of printer which i made ,hmm i would be using marlin and ardiuno and ramps combo for this i have a room for bl touch wiil look to add if i had time so starting with the Motors i connected the and Yaxis motor to the motorpins and then connected two X axis motorin parrallel and then connected to the board next connected Two Z axis Motors to the Board then connected Hot bed and Extruter Thermistors,Then 2 fans With power supply and and 1 for Heatsink ,moving to lcd display i choose a 3.5 inch tft touch diplay a connceted to the EXp1 And Exp2 the connected hotend and heat bed to th board , as There were many thing connected to a single board so the wiring looks very complex but trust me i have assinged diff color to diff wires so try to zoom the pic for more understanding ,tried to make it more cleaner but coudnt i will be using Marlin As Firmware and Will try to create my custom and personalised one in future
+
+  ![Screenshot (61).png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDM2OCwicHVyIjoiYmxvYl9pZCJ9fQ==--805c4d5ea663758cfc608d1673144fee8edeb41e/Screenshot%20(61).png)
+  
 
