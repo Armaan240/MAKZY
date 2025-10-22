@@ -57,3 +57,25 @@ Electronics was a work of 30 min for me as i knew how would i connect wires bcz 
   ![Screenshot (61).png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDM2OCwicHVyIjoiYmxvYl9pZCJ9fQ==--805c4d5ea663758cfc608d1673144fee8edeb41e/Screenshot%20(61).png)
   
 
+## 10/22/2025 6:37 PM - 22 Oct (Design Continue)  
+
+so yesterday i was not able to complete my full model bcz of our traditional festival so yeah today my goal was to make y axis for that i first started with creating a bed holder for hot bed and yeah i decided to make a it m shape but fully functionable it took me 40 min to create a bed holder after sketch on my lap uhh i would def throw this piece of trash after i comp this project 
+
+![Screenshot (231).png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDM3MiwicHVyIjoiYmxvYl9pZCJ9fQ==--de0b248eb53f1ec250f3317d46c2d02947a2cc17/Screenshot%20(231).png)
+![Screenshot (232).png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDM3NywicHVyIjoiYmxvYl9pZCJ9fQ==--c2e7e2dc6676dba99746a527cab04086b17498fe/Screenshot%20(232).png)
+
+after this i created a holder for y axis extrunsion and a mount for motor for this it was a complicate das motor was to be placed stabl nd steady it would screw upto the profile and then a ock system to make it fullt float 
+
+![Screenshot (233).png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDM3MywicHVyIjoiYmxvYl9pZCJ9fQ==--80716671e77699f6a304ecbd86612fdb88d574b4/Screenshot%20(233).png)
+ 
+then second side i added a pully to hold the belt and uhh it was time to do the most anoying part of this project the belts i repeated the same staep and tried to add allin once but it took 40 min to fully added and then for athor side which took 24 min ig idk why its talikg to long may be due to my bad ram which i tried to replace for more power and yeah it does but opp ,movng to the belt it took maybe 1-1.5 hour idk the exact time to load and here how it looks like![Screenshot (226).png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDM4MSwicHVyIjoiYmxvYl9pZCJ9fQ==--fff71c426a1e5fd48d108e26e7285b99a599548a/Screenshot%20(226).png)
+
+![Screenshot (225).png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDM3OSwicHVyIjoiYmxvYl9pZCJ9fQ==--5a0966655e7b13c2bc119cf9fe32ca7775118ba1/Screenshot%20(225).png)
+ hmm after some finishing touches i was able to complete it and yeah see how it looks
+![Screenshot (237).png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDM4NiwicHVyIjoiYmxvYl9pZCJ9fQ==--129a8f602db58a4df12bd48853124a562cbf471d/Screenshot%20(237).png)
+![Screenshot (226).png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDM5MCwicHVyIjoiYmxvYl9pZCJ9fQ==--649f109d4a81c7bd121ba963e1a766945c4ab9f6/Screenshot%20(226).png)
+![Screenshot (220).png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDM4NywicHVyIjoiYmxvYl9pZCJ9fQ==--be23e80857218e98e423cbaa2b78c177d71172f6/Screenshot%20(220).png)
+![Screenshot (221).png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDM4OSwicHVyIjoiYmxvYl9pZCJ9fQ==--c991264813f613e6c0134dca1fcf5259a92e4137/Screenshot%20(221).png)
+![Screenshot (225).png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDM4OCwicHVyIjoiYmxvYl9pZCJ9fQ==--591c08cf6bf527075f70448ab2c2eb53f727ebd5/Screenshot%20(225).png)
+  
+
