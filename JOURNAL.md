@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **MAKZY**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/788).
-
-
 ## 10/20/2025 - 19-Oct (Idea And Design)  
 
 (7AM-8AM)
@@ -34,4 +30,23 @@ after this i add wheels and mount for nema motors ![Screenshot (219).png](https:
 ![Screenshot (218).png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzYyMiwicHVyIjoiYmxvYl9pZCJ9fQ==--4f33cd9f0cfad4b967d499d42f23ed527b9de00f/Screenshot%20(218).png)
 
   
+
+## 10/22/2025 - 20-Oct (Idea And Design Continue)   
+
+uhh i hate typing in my small laptop so i just keep on the journal with writting it physically on my fav notebook this process is same as i did for highway and clutter so yeah please forgive me for late journaling ,
+
+(8am-9am ,20 oct )
+so today i decided to complete gantry and for that i would need holder for motor on one side and another side for pully hmm so after making many diff styles a perfect look was not coming so saw many printers and decided to make now as i wanted to to be functionally good and lookwise also so here what i made
+
+ ![Screenshot (236).png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDM1OSwicHVyIjoiYmxvYl9pZCJ9fQ==--67159f61cd8d001e96774fdacecf1f447d761449/Screenshot%20(236).png)
+![Screenshot (235).png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDM2MCwicHVyIjoiYmxvYl9pZCJ9fQ==--4b0b8867b13aaadacd8419484c779ddd94a5be3b/Screenshot%20(235).png)
+
+(10am-1am ,20 oct ) 
+after that i started making toolhead holder for the printer it would look good as well as practical because the toolhead of TOYZY is very heavy so i decide to add only one fan uff challenges occur again my laptop is running very slow the thing which req to make is taking more time than need ,hmm nvm i will do everything for this printer ,and add a slot for fan to placed vertically and a hole for the fan to cool hot end , for this printer i looking to use same e3d hot end ,i let the other side open for wires hmm also it will be moving on the wheels and aluminium extrunsion her it how it looks like all this i will be add to the main model for a final look of the day 
+
+![Screenshot (234).png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDM2MiwicHVyIjoiYmxvYl9pZCJ9fQ==--5d40a32d021a03ff131f88e6c2e706da714e5935/Screenshot%20(234).png)
+  
+hmm after a 10 min break i decided to add belts to it the uhh it really took me half and hour to set it up along the line because my lap was not able the handle the load i used patteren along path to make the bellt it took 30 min to render a belt for one side and after 2 hour i was able to complete the belt and yeah fter 3o min i fully setuped the gantry here it looks
+![Screenshot (224).png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDM2NiwicHVyIjoiYmxvYl9pZCJ9fQ==--c3858ad4901b3b775cb0031a6c8e7e2e3dc69c38/Screenshot%20(224).png)
+   
 
