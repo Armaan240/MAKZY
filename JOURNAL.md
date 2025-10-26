@@ -79,3 +79,14 @@ then second side i added a pully to hold the belt and uhh it was time to do the 
 ![Screenshot (225).png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDM4OCwicHVyIjoiYmxvYl9pZCJ9fQ==--591c08cf6bf527075f70448ab2c2eb53f727ebd5/Screenshot%20(225).png)
   
 
+## 10/26/2025 - Fixed Some Things  
+
+after reviews by Tanishq's review i added some changes to the repo uhh i am so dumb as i used gpt to correct human mistakes like grammer bcz i know i am really bad at typing and just copy pasted it idk i didnt checked it correctly it changed my full sentences (what i wrote originaly) anyways it happens 
+so i correct the mount of the y axis holding pully as it should be double sheered for more strength i took some reviews and help from one of my mate who had build 2-3 printers for our school so yeah he said it would work fine 
+![Screenshot (247)](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTY0NSwicHVyIjoiYmxvYl9pZCJ9fQ==--be62d8e9827f198e71288bf3d5862a336f9de475/Screenshot%20(247).png)
+then i add a container and mount for mcu and power supply and a lcd screen and updated the cad model here how it looks ![Screenshot (249)](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTY0NiwicHVyIjoiYmxvYl9pZCJ9fQ==--6701d0a9efc76dab4ce1c49033c53f2c438091e0/Screenshot%20(249).png)
+
+then after that i changed my whole toolhead for more better looks and most important functionality ,added a part cooling structure and shifted to linear guides insted of wheels for more sleek look and performance![Screenshot (253)](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTY0NywicHVyIjoiYmxvYl9pZCJ9fQ==--6546f465604c51bc3df237240f589948d3a0e651/Screenshot%20(253).png)
+
+  
+
