@@ -1,31 +1,20 @@
-# MAKZY MAKZY 3D Printer
-
- >MAKZY IS BROTHER OF MY FIRST PRINTER TOYZY ,WITH IMPORVED MECHANICS AND LOOKS WILL BE USING SAME ARDUINO AND RAMPS FOR THIS AS MY BROS SHOULD HAVE SAME HEART BUT YEAH IT WILL GOOD AND BETTER THAN BEFORE
-Here’s a clean, natural, human-written **README.md** for your **MAKZY** 3D printer project — simplified, real, and to the point like a proper Gen Z maker project. I kept the tone raw and grounded, removed commas, and rewrote it like something you'd actually post on GitHub or a portfolio page:
-
+# MAKZY 3D Printer
 ---
+Makzy is the second version of the Toyzy the 3d printer it has better looks and design and even better functioning , making it more compact and fast i have used upper version of ramp for it and toyzy works good but it gets stopped working in between due to bad mounting of the parts so it needs to screwed up to get it working but yeah i wont be facing problem with this ,every single part of this made by doing proper test in real life like i have tested out shapes for the functionality 
 
+##  Why I Built It
 
+since  i made my first printer i was not fully satisfied bcz it had some cons yeah i know this version may also have some problem with it but i would keep the process on going for making printer untill i get a perfect commercial level diy 3d printer bcz i want it be work globally and launch in market by which anyone can get a diy 3d printer therefore i would like thank to bluprint for a great platform to get out my atmost potential
 
-MAKZY is not just another 3D printer. It’s the thing I dreamed of building from scratch. This project started as an idea and slowly became real. I didn’t buy any pre-made kit. I didn’t copy someone’s design. I wanted to make my own version fully custom and fully understood. Every nut bolt wire and code line is mine.
+## How You can Make it
+yeah it requires many diff steps to make a 3d printer but you can make one using my provide parts and models and just assemble them or just mail me out for any help bcz i am free all the time 
 
-The frame is built with aluminum extrusions connected by internal printed joints so it looks clean and solid. The main brain runs on an Arduino Mega with a RAMPS board.
-Everything from the frame to the mounts was modeled in Fusion 360 by me. If any part looks missing in the photos that’s a render glitch. The aluminum extrusions are designed to slot perfectly inside engraved stand parts.
-
----
-
-## 💭 Why I Built It
-
-I’ve always been into machines that create things — CNCs plotters robots 3D printers. But 3D printing hit different. People usually just buy one and start printing. I didn’t want that. 
-For me MAKZY is more than a printer. It’s proof that I can build something this complex from nothing. It’s a challenge to make it functional cool and original.
-
-<img width="1324" height="701" alt="Screenshot (227)" src="https://github.com/user-attachments/assets/33b8cb14-b80d-48a9-a707-ab6d95373b6b" />
-<img width="1521" height="699" alt="Screenshot (226)" src="https://github.com/user-attachments/assets/e8d033ba-d94f-4e1e-bc55-bc71aaaaf87f" />
-<img width="1920" height="1080" alt="Screenshot (222)" src="https://github.com/user-attachments/assets/6675aeca-b522-4abc-9dfc-860c4b4378d2" />
-<img width="1502" height="714" alt="Screenshot (221)" src="https://github.com/user-attachments/assets/b613dd0c-5c4d-44c1-8a58-178deab2fc56" />
-<img width="976" height="704" alt="Screenshot (220)" src="https://github.com/user-attachments/assets/d82f753e-3c17-4938-babd-56baa96dafe0" />
-<img width="1449" height="735" alt="Screenshot (215)" src="https://github.com/user-attachments/assets/9f778830-5da8-4610-b12b-b45bc0e627a6" />
-<img width="1066" height="736" alt="Screenshot (237)" src="https://github.com/user-attachments/assets/7fc84368-eee9-40c3-9114-24841b5548c9" />
+<img width="1265" height="691" alt="Screenshot (244)" src="https://github.com/user-attachments/assets/8ad61616-87c0-44d4-8756-99948bcd5dcd" />
+<img width="1315" height="664" alt="Screenshot (253)" src="https://github.com/user-attachments/assets/107fadf7-c815-40b8-a22f-56c114b2b98b" />
+<img width="846" height="677" alt="Screenshot (252)" src="https://github.com/user-attachments/assets/7e8edea8-a6a5-42f8-b937-0fcc9529326f" />
+<img width="934" height="670" alt="Screenshot (251)" src="https://github.com/user-attachments/assets/8f19307e-cd9c-42af-8c63-83880675ef08" />
+<img width="1920" height="1080" alt="Screenshot (250)" src="https://github.com/user-attachments/assets/c8e2d2e9-f657-4577-8bf3-0c14bef6a86c" />
+<img width="1239" height="737" alt="Screenshot (249)" src="https://github.com/user-attachments/assets/b0b9e12f-11e8-4b0e-84d0-3bc621bea35a" />
 
 ---
 | Category                   | Part                                               | Qty | Unit Price | Shipping | Total      | Link                                                                                                                                                    |
@@ -52,4 +41,4 @@ For me MAKZY is more than a printer. It’s proof that I can build something thi
 | **Printed Parts**          | Corners, carriage, mounts, cover                   | —   | —          | —        | **$35.00** | [Buy Link]([https://amzn.in/d/5VhkDte](https://www.amazon.in/INVENTO-1-75mm-Filament-Printing-Printer/dp/B07N96WPRV/ref=sr_1_53?crid=NK7WX1UBJLIZ&dib=eyJ2IjoiMSJ9.sY81egaJfVp7m3CvAEXaI5_DN-hZHuJylsArzE8mhRSGDOV0GKcdNpMLDeJ-7YbHfirGMsmYWUc7REIipBAI4YLXUPvB1dARhyUvNoWmnlFKR-N2APgHHUitUwCrq5vKdTW8x4OBi7NHCteh8Z3bGg.nFEI6SVLOJ_2KuqvV0z5eL7pis7DzsMu3CXC5fEIw_s&dib_tag=se&keywords=abs+yellow+filament&qid=1761140883&sprefix=abs+yellow+filament%2Caps%2C227&sr=8-53&xpid=z__t9tzQzeGvS))                                                                                                                   |
 
 ---
-Grand Total: ≈ $320–340 USD
+Grand Total: ≈ $300–320 USD
