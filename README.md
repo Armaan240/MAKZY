@@ -9,12 +9,10 @@ since  i made my first printer i was not fully satisfied bcz it had some cons ye
 ## How You can Make it
 yeah it requires many diff steps to make a 3d printer but you can make one using my provide parts and models and just assemble them or just mail me out for any help bcz i am free all the time 
 
-<img width="1265" height="691" alt="Screenshot (244)" src="https://github.com/user-attachments/assets/8ad61616-87c0-44d4-8756-99948bcd5dcd" />
-<img width="1315" height="664" alt="Screenshot (253)" src="https://github.com/user-attachments/assets/107fadf7-c815-40b8-a22f-56c114b2b98b" />
-<img width="846" height="677" alt="Screenshot (252)" src="https://github.com/user-attachments/assets/7e8edea8-a6a5-42f8-b937-0fcc9529326f" />
-<img width="934" height="670" alt="Screenshot (251)" src="https://github.com/user-attachments/assets/8f19307e-cd9c-42af-8c63-83880675ef08" />
-<img width="1920" height="1080" alt="Screenshot (250)" src="https://github.com/user-attachments/assets/c8e2d2e9-f657-4577-8bf3-0c14bef6a86c" />
-<img width="1239" height="737" alt="Screenshot (249)" src="https://github.com/user-attachments/assets/b0b9e12f-11e8-4b0e-84d0-3bc621bea35a" />
+<img width="937" height="651" alt="Screenshot (256)" src="https://github.com/user-attachments/assets/b2f2d728-e08e-4451-91a4-dffba6a04c5f" />
+<img width="1287" height="714" alt="Screenshot (255)" src="https://github.com/user-attachments/assets/56ce618b-77f8-4c64-b2d9-eebe2d26716e" />
+<img width="1393" height="724" alt="Screenshot (254)" src="https://github.com/user-attachments/assets/02b40f50-7f4f-4beb-a666-1d637266e18a" />
+<img width="1394" height="774" alt="Screenshot (257)" src="https://github.com/user-attachments/assets/abb95554-bbbb-4f7d-9cff-fa453769df7a" />
 
 ---
 | Category                   | Part                                               | Qty | Unit Price | Shipping | Total      | Link                                                                                                                                                    |
