@@ -90,3 +90,9 @@ then after that i changed my whole toolhead for more better looks and most impor
 
   
 
+## 10/27/2025 - Issue Fix  
+
+![Screenshot (255)](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTg5MiwicHVyIjoiYmxvYl9pZCJ9fQ==--7e1218bdb8fa2f79c6b3678b9e1a2d8336610f42/Screenshot%20(255).png)![Screenshot (257)](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTg5MywicHVyIjoiYmxvYl9pZCJ9fQ==--7f518c9cd297e2e307e23b076f05756d6883ffa8/Screenshot%20(257).png)![Screenshot (256)](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTg5MSwicHVyIjoiYmxvYl9pZCJ9fQ==--1a903e5b6c98dcfc40b311bb52e9051f6771eba5/Screenshot%20(256).png)![Screenshot (254)](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTg5NCwicHVyIjoiYmxvYl9pZCJ9fQ==--c4c304bedaff736e9c244d5a7d044da24ef60c7b/Screenshot%20(254).png)
+ Fixed the belt paths and v slot wheels positions and change the linear rail to less wieght so that it could be practically functional all these changes were made after suggestions from 3d printing dicord channel ,uuh ppl were lit making fun of my belt path saying its cursed but yeah i have changed
+   
+
