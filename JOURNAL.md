@@ -96,3 +96,8 @@ then after that i changed my whole toolhead for more better looks and most impor
  Fixed the belt paths and v slot wheels positions and change the linear rail to less wieght so that it could be practically functional all these changes were made after suggestions from 3d printing dicord channel ,uuh ppl were lit making fun of my belt path saying its cursed but yeah i have changed
    
 
+## 10/28/2025 - Some More Fixes   
+
+![Screenshot (261)](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjE5OSwicHVyIjoiYmxvYl9pZCJ9fQ==--77abfba89c2e7511cf6ff0977d8c9ec9e398a721/Screenshot%20(261).png)![Screenshot (260)](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjIwMSwicHVyIjoiYmxvYl9pZCJ9fQ==--0a3d4eeff4f53daccbbe9e8bdf6bf8fb1ec4b0df/Screenshot%20(260).png)
+ After some more reviews finally i feel i am done with the changes required , i would thanks tanishq for helping me get better ppl for reviews , so the chnages i made are major and important for the whole functioning i have added 3 wheels instead of 2 for stablity please ignore if you feel linear rail are close to wheels they good amount of space between them also i have increased the width of the whole printer by a major amount for linear rail and bed to have good coordination and also add a double sheer support to the idler with custom design caps   
+
