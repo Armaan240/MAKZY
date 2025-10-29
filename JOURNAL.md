@@ -101,3 +101,15 @@ then after that i changed my whole toolhead for more better looks and most impor
 ![Screenshot (261)](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjE5OSwicHVyIjoiYmxvYl9pZCJ9fQ==--77abfba89c2e7511cf6ff0977d8c9ec9e398a721/Screenshot%20(261).png)![Screenshot (260)](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjIwMSwicHVyIjoiYmxvYl9pZCJ9fQ==--0a3d4eeff4f53daccbbe9e8bdf6bf8fb1ec4b0df/Screenshot%20(260).png)
  After some more reviews finally i feel i am done with the changes required , i would thanks tanishq for helping me get better ppl for reviews , so the chnages i made are major and important for the whole functioning i have added 3 wheels instead of 2 for stablity please ignore if you feel linear rail are close to wheels they good amount of space between them also i have increased the width of the whole printer by a major amount for linear rail and bed to have good coordination and also add a double sheer support to the idler with custom design caps   
 
+## 10/29/2025 - Changed The Belt Path  
+
+![Screenshot (260)](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjQ1NywicHVyIjoiYmxvYl9pZCJ9fQ==--a3d5ceae0b071118f590a9cb3bacf41d1038a009/Screenshot%20(260).png)
+![Screenshot (261)](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjQ1OCwicHVyIjoiYmxvYl9pZCJ9fQ==--dcba2285abcec937c7a1bedc063d0fffe941834b/Screenshot%20(261).png)
+
+ok so after some more reviews and research i decided to change the belt path of the printer and using the same models and some adjustment i was able to shift it and benfits of the decisions are
+
+- improved motion
+- less complexity
+- small belt paths as suggested by tanishq 
+- adjustable tension for the ideler pulley  
+
