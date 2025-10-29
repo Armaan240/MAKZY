@@ -103,10 +103,8 @@ then after that i changed my whole toolhead for more better looks and most impor
 
 ## 10/29/2025 - Changed The Belt Path  
 
-![Screenshot (263)](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjQ2MCwicHVyIjoiYmxvYl9pZCJ9fQ==--98bd614bd59c442d40a8d166a16eaca53c837e5e/Screenshot%20(263).png)![Screenshot (263)](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjQ2MSwicHVyIjoiYmxvYl9pZCJ9fQ==--5f654f7d8fb0bec310f10059a2715ea1d053156d/Screenshot%20(263).png)
-
-![Screenshot (264)](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjQ2MiwicHVyIjoiYmxvYl9pZCJ9fQ==--69b007e06dc6e1c438e736f326a2997dcf5c5f22/Screenshot%20(264).png)![Screenshot (264)](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjQ2MywicHVyIjoiYmxvYl9pZCJ9fQ==--dc232bf6e47211fa6ac7347ce007e29bc30fcbb7/Screenshot%20(264).png)
-
+![Screenshot (263)](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjQ2MCwicHVyIjoiYmxvYl9pZCJ9fQ==--98bd614bd59c442d40a8d166a16eaca53c837e5e/Screenshot%20(263).png)
+![Screenshot (264)](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjQ2MiwicHVyIjoiYmxvYl9pZCJ9fQ==--69b007e06dc6e1c438e736f326a2997dcf5c5f22/Screenshot%20(264).png)
 
 
 ok so after some more reviews and research i decided to change the belt path of the printer and using the same models and some adjustment i was able to shift it and benfits of the decisions are
