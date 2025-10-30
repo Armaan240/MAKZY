@@ -114,3 +114,16 @@ ok so after some more reviews and research i decided to change the belt path of 
 - small belt paths as suggested by tanishq 
 - adjustable tension for the ideler pulley  
 
+## 10/30/2025 - Some More Changes  
+
+![Screenshot (266)](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjY1MywicHVyIjoiYmxvYl9pZCJ9fQ==--751d580ac599dfeebdd59cd380d70de92b19ce74/Screenshot%20(266).png)![Screenshot (265)](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjY1MiwicHVyIjoiYmxvYl9pZCJ9fQ==--f0fb49093380ca75ba65c6f47e057cde242efd7a/Screenshot%20(265).png)
+
+Ok So i did some changes by updating the motor mount i have added a bottom support so that it could handelthe tension from the belt and doesnt slide also i have added a double sheer supprt to the motors pully , increased the width by more 30 mm and wheels including every right part the benefits from the above changes that will improve overall functionalty and working are:-
+
+- strength against sliding with belt tension boths side
+- strength to both motor and idler with double sheer support
+- extruder will able to cover whole bed now
+- belt will work properly without escaping from the pully with the support provide 
+
+I would Like to Thank to all the 3d Printing Discord Community for the real and practical solutions and Tanishq for helping selflessly to improve the design    
+
