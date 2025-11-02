@@ -40,3 +40,4 @@ yeah it requires many diff steps to make a 3d printer but you can make one using
 
 ---
 Grand Total: ≈ $300–320 USD
+For The Full Model Please Check The Latest Commited Folder
