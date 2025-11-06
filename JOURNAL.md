@@ -127,7 +127,7 @@ Ok So i did some changes by updating the motor mount i have added a bottom suppo
 
 I would Like to Thank to all the 3d Printing Discord Community for the real and practical solutions and Tanishq for helping selflessly to improve the design    
 
-## 11/6/2025 - Cad Fixes  
+## 11/6/2025 9 AM - Cad Fixes  
 
 After Reviews from Tanishq and Discord i decided to do these changes which include making the double sheer broader in idelr , changing the position of bowden extruder to side way and updating the design of y axis mount ideler to make it tensionable now ![80d0f965-5876-4e39-ad93-6e1066f11370](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODc5MSwicHVyIjoiYmxvYl9pZCJ9fQ==--7ebd31dd787a3e71dc9af6a95b78ebda85a0ca98/80d0f965-5876-4e39-ad93-6e1066f11370.jpeg)
 ![16fe11b9-a965-4108-b81c-314b7bcb9b65](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODc5MiwicHVyIjoiYmxvYl9pZCJ9fQ==--cb1a571947469da2048ca22b1b7788fe872a4ad2/16fe11b9-a965-4108-b81c-314b7bcb9b65.jpeg)![4de1379d-b049-401a-a5ee-221f7a96981e](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODc5MCwicHVyIjoiYmxvYl9pZCJ9fQ==--e189f3d8c324840cf3ae205ebf6e7a0ca5ccc3b5/4de1379d-b049-401a-a5ee-221f7a96981e.jpeg)
@@ -136,4 +136,10 @@ After Reviews from Tanishq and Discord i decided to do these changes which inclu
 Now Question arise how would i be able to get y and x axis stable so for x axis since i am already having dual z axis motors so there was no need for extra extrusion and wheels with tool head since removing them already removes a large load from gantry thus it give a stable output since it was creating a over joint to the gantry also I decided to keep y axis stable not just by piece of plastic but with some real thing so i got with idea of using these joints![IMG_2836](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODc5NCwicHVyIjoiYmxvYl9pZCJ9fQ==--a7177f7467eb1e5b7ef60eea1e05e9e5d025962a/IMG_2836.jpeg)
 ![IMG_2835](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODc5MywicHVyIjoiYmxvYl9pZCJ9fQ==--912e768c369bde7285ba23a41b871fac4956de4c/IMG_2835.jpeg)
   
+
+## 11/6/2025 8 PM - Fixed Bowden  
+
+![Screenshot (279)](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODg2NCwicHVyIjoiYmxvYl9pZCJ9fQ==--c0f3e1bae25d6ad8375f0f40b54f76efd5e46c14/Screenshot%20(279).png)
+![Screenshot (277)](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODg2MywicHVyIjoiYmxvYl9pZCJ9fQ==--20f3265b729faba8e2cc6b2957e63772e9057d98/Screenshot%20(277).png)
+After Another review i decided to go with direct drive instead of bowden so instead of using a old fashion extruder i decided to go with better one so after some searching about extruders i found a clone of orbiter v2 extruder with almost same functionality   
 
