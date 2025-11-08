@@ -143,3 +143,14 @@ Now Question arise how would i be able to get y and x axis stable so for x axis 
 ![Screenshot (277)](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODg2MywicHVyIjoiYmxvYl9pZCJ9fQ==--20f3265b729faba8e2cc6b2957e63772e9057d98/Screenshot%20(277).png)
 After Another review i decided to go with direct drive instead of bowden so instead of using a old fashion extruder i decided to go with better one so after some searching about extruders i found a clone of orbiter v2 extruder with almost same functionality   
 
+## 11/8/2025 - Journey Till Date  
+
+hmm so ig i have reached to a that part from where i can proudly say i have made a great thing is a diff thing its still pending to be made irl but i trust my guts that it will also be done  
+**Challenges i Faced**
+the first challenge and a major difficulty i faced was making overall cad in laptop ,bcz the ram isnt good i tried to upgarde it to 16 gb but dont know its not optimized or what it has just slowd down my pc more anyways another thing which ig was hard for me to make the belt as it was really time taking and when i had to change the belt to a diff position it would take so long to delete and then to make it again
+another thing in which i faced difficulty was making a proper functional parts so that it could not suffer any prob in future working 
+as i had to make a almost perfect model so it took me so long to do rnd and learn new thing along with studies but didnt stop tried and tried again to setup those idlers and duct and wheels but yeah 
+it was all which i can say gave a opposition in shipping this project ![Screenshot (279)](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTI5NSwicHVyIjoiYmxvYl9pZCJ9fQ==--5dc03d43d6c8a747ac3f73b2e9bde1f1b55f33ec/Screenshot%20(279).png)
+
+  
+
