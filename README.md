@@ -40,5 +40,5 @@ yeah it requires many diff steps to make a 3d printer but you can make one using
 | **Printed Parts**   From Printing Legion       | Corners, carriage, mounts, cover                   | —   | —          | —        | **$5.00** | [)                                                                                                                   |
 
 ---
-Grand Total: ≈ $300–320 USD
+Grand Total: ≈ $300USD
 For The Full Model Please Check The Latest Commited Folder
